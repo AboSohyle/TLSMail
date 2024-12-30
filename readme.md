@@ -25,7 +25,7 @@ This is a simple SMTP TLS mail client implemented in C++.
     ```
 2. Navigate to the project directory:
     ```sh
-    cd TextMe
+    cd TLSMail
     ```
 3. Compile the code:
     ```sh
