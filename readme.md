@@ -21,7 +21,7 @@ This is a simple SMTP TLS mail client implemented in C++.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AboSohyle/TextMe.git
+    git clone https://github.com/AboSohyle/TLSMail.git
     ```
 2. Navigate to the project directory:
     ```sh
